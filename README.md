@@ -12,4 +12,4 @@ Also you can cange metric and language in "settings" dictionary.
 More detail about settings you can get from [settings documetation](http://wttr.in/:help)
 
 # Run program
-So, after all actions above you need just run code in terminal with `python3 main.py`
+Run code in terminal with `python3 main.py`
